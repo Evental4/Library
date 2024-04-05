@@ -8,3 +8,14 @@ D:\инженерка\Library\Library\obj\Debug\Library.csproj.GenerateResource.
 D:\инженерка\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
 D:\инженерка\Library\Library\obj\Debug\Library.exe
 D:\инженерка\Library\Library\obj\Debug\Library.pdb
+D:\хижов максим\Library\Library\bin\Debug\Library.exe.config
+D:\хижов максим\Library\Library\bin\Debug\Library.exe
+D:\хижов максим\Library\Library\bin\Debug\Library.pdb
+D:\хижов максим\Library\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+D:\хижов максим\Library\Library\obj\Debug\Library.csproj.SuggestedBindingRedirects.cache
+D:\хижов максим\Library\Library\obj\Debug\Library.MainForm.resources
+D:\хижов максим\Library\Library\obj\Debug\Library.Properties.Resources.resources
+D:\хижов максим\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
+D:\хижов максим\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+D:\хижов максим\Library\Library\obj\Debug\Library.exe
+D:\хижов максим\Library\Library\obj\Debug\Library.pdb

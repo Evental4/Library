@@ -23,13 +23,12 @@ namespace Library
 
         public override string ToString() 
         {
-            return "\tBook@" + GetHashCode() + "\t\n" +
+            return "\tBook@" + GetHashCode() + "\r\n" +
                    "\t\tTitle:  " + Title + "\r\n" +
                    "\t\tAuthor:  " + Author + "\r\n" +
                    "\t\tDatePublished: " + DatePublished + "\r\n" +
                    "\t\tYearPublished:  " + YearPublished + "\r\n" +
                    "\t}";
-
         }
 
     }
