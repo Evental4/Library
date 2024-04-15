@@ -2,7 +2,6 @@ D:\инженерка\Library\Library\bin\Debug\Library.exe.config
 D:\инженерка\Library\Library\bin\Debug\Library.exe
 D:\инженерка\Library\Library\bin\Debug\Library.pdb
 D:\инженерка\Library\Library\obj\Debug\Library.csproj.AssemblyReference.cache
-D:\инженерка\Library\Library\obj\Debug\Library.Form1.resources
 D:\инженерка\Library\Library\obj\Debug\Library.Properties.Resources.resources
 D:\инженерка\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
 D:\инженерка\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
@@ -19,3 +18,5 @@ D:\хижов максим\Library\Library\obj\Debug\Library.csproj.GenerateReso
 D:\хижов максим\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
 D:\хижов максим\Library\Library\obj\Debug\Library.exe
 D:\хижов максим\Library\Library\obj\Debug\Library.pdb
+D:\инженерка\Library\Library\obj\Debug\Library.MainForm.resources
+D:\инженерка\Library\Library\obj\Debug\Library.EditForm.resources
